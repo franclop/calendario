@@ -1,0 +1,9 @@
+c:\users\j780y\documents\visual studio 2015\Projects\Calendario\Calendario\bin\Debug\Calendario.exe.config
+c:\users\j780y\documents\visual studio 2015\Projects\Calendario\Calendario\bin\Debug\Calendario.exe
+c:\users\j780y\documents\visual studio 2015\Projects\Calendario\Calendario\bin\Debug\Calendario.pdb
+c:\users\j780y\documents\visual studio 2015\Projects\Calendario\Calendario\obj\Debug\Calendario.csprojResolveAssemblyReference.cache
+c:\users\j780y\documents\visual studio 2015\Projects\Calendario\Calendario\obj\Debug\Calendario.Form1.resources
+c:\users\j780y\documents\visual studio 2015\Projects\Calendario\Calendario\obj\Debug\Calendario.Properties.Resources.resources
+c:\users\j780y\documents\visual studio 2015\Projects\Calendario\Calendario\obj\Debug\Calendario.csproj.GenerateResource.Cache
+c:\users\j780y\documents\visual studio 2015\Projects\Calendario\Calendario\obj\Debug\Calendario.exe
+c:\users\j780y\documents\visual studio 2015\Projects\Calendario\Calendario\obj\Debug\Calendario.pdb
